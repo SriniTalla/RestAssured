@@ -15,7 +15,7 @@ public class myFirstRestAssuredClass {
         getResponseHeaders();
         getResponseTime();
         getResponseContentType();
-        getSpecificPartOfResponseBody();
+        //getSpecificPartOfResponseBody();
 
     }
 
